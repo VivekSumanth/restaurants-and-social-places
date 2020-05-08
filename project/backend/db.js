@@ -1,7 +1,7 @@
 const Sequelize = require('sequelize')
 const db = {}
 
-const sequelize = new Sequelize('logindb', 'root', 'viv230997', {
+const sequelize = new Sequelize('logindb', 'root', 'writepassword', {
     host: 'localhost',
     dialect: 'mysql',
     operatorsAliases: '0',
