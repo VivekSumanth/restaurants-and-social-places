@@ -126,7 +126,7 @@ const routes: Routes = [
 //  4. AGM live demo is loacted at this URL: https://stackblitz.com/edit/angular-google-maps-demo
 
 
-    AgmCoreModule.forRoot({apiKey: 'AIzaSyAiP9mZydf650iyZMr4AGf9XjSs8mFquH4'+ '&libraries=visualization'}),
+    AgmCoreModule.forRoot({apiKey: 'addkey'+ '&libraries=visualization'}),
     
     FormsModule,
     NgbModule,
