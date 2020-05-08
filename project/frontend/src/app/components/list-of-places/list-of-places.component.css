@@ -1,0 +1,21 @@
+body  {
+    background-image: url("menu-restaurant-vintage-table.jpg");
+    background-size: cover;
+    background-color: #cccccc;
+    height: 712px;
+    background-position: center;
+}
+
+table {
+    width: 100%;
+}
+
+.mat-column-right {
+    text-align: center;
+}
+
+
+agm-map {
+    height: 500px;
+}
+
